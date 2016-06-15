@@ -1,3 +1,6 @@
+Docker image just need link 8123 port to you host.
+Read [official reference](https://clickhouse.yandex/reference_en.html) for more information how to configure it.
+
 # ClickHouse
 ClickHouse is an open-source column-oriented database management system that allows generating analytical data reports in real time.
 
